@@ -10,7 +10,7 @@ While I really don't think that someone else will be so crazy to seriously repro
 ![Unicorn](https://raw.githubusercontent.com/simonepri/talking-unicorn/master/gallery/unicorn.jpg "Unicorn")
 
 ## Schematic
-![Schematic](https://raw.githubusercontent.com/simonepri/talking-unicorn/master/gallery/schematic.png "Schematic")
+![Schematic](https://raw.githubusercontent.com/simonepri/talking-unicorn/master/schematic/schematic.png "Schematic")
 
 ## 3D Model
 You can download the stl files of the unicorn here:
