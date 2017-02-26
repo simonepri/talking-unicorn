@@ -2,7 +2,7 @@
 ## History
 Some time ago I had an interesting conversation about unicorns with a girl. 🦄
 The day after this conversation, as a joke, I went to her with a 3D printed unicorn that greets and says her name when tilted.
-It was really weird but he liked it and we laughed a lot. ❤️️
+It was really weird but she liked it and we laughed a lot. ❤️️
 
 While I really don't think that someone else will be so crazy to seriously reproduce it, I would like to share with you the project, since it could be used as base for other audio based Arduino projects.
 
