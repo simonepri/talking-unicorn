@@ -7,10 +7,10 @@ It was really weird but she liked it and we laughed a lot. ❤️️
 While I really don't think that someone else will be so crazy to seriously reproduce it, I would like to share with you the project, since it could be used as base for other audio based Arduino projects.
 
 ## Final Result
-![Unicorn](https://raw.githubusercontent.com/simonepri/talking-unicorn/master/unicorn.jpg "Unicorn")
+![Unicorn](https://raw.githubusercontent.com/simonepri/talking-unicorn/master/gallery/unicorn.jpg "Unicorn")
 
 ## Schematic
-![Schematic](https://raw.githubusercontent.com/simonepri/talking-unicorn/master/schematic.png "Schematic")
+![Schematic](https://raw.githubusercontent.com/simonepri/talking-unicorn/master/gallery/schematic.png "Schematic")
 
 ## 3D Model
 You can download the stl files of the unicorn here:

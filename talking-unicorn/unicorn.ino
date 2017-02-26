@@ -1,10 +1,10 @@
 /**
-* Talking Unicorn
-*
-* @author        Simone Primarosa,(http://simoneprimarosa.com)
-* @link          (https://github.com/simonepri/talking-unicormn)
-* @license       MIT License (https://opensource.org/licenses/MIT)
-*/
+ * Talking Unicorn
+ *
+ * @author        Simone Primarosa,(http://simoneprimarosa.com)
+ * @link          (https://github.com/simonepri/talking-unicormn)
+ * @license       MIT License (https://opensource.org/licenses/MIT)
+ */
 
 #include "PCM.h"
 #include "sounddata.h"
