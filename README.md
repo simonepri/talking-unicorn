@@ -1,17 +1,38 @@
 # Talking Unicorn 🦄
-## History
+> An Arduino based greeting unicorn that says something to your girl when tilted.
+
+
+### History
 Some time ago I had an interesting conversation about unicorns with a girl. 🦄
 The day after this conversation, as a joke, I went to her with a 3D printed unicorn that greets and says her name when tilted.
 It was really weird but she liked it and we laughed a lot. ❤️️
 
-While I really don't think that someone else will be so crazy to seriously reproduce it, I would like to share with you the project, since it could be used as base for other audio based Arduino projects.
+### Gallery
+Some images done during the development process:
 
-## Final Result
-![Unicorn](https://raw.githubusercontent.com/simonepri/talking-unicorn/master/gallery/unicorn.jpg "Unicorn")
+<p>
+  <img src="gallery/unicorn.jpg" alt="Talking Unicorn" height="256">
+</p>
 
-## Schematic
-![Schematic](https://raw.githubusercontent.com/simonepri/talking-unicorn/master/schematic/schematic.png "Schematic")
+> Click on the image to enlarge.
 
-## 3D Model
-You can download the stl files of the unicorn here:
-http://www.thingiverse.com/thing:23972
+## Getting Started
+
+### Generating `sounddata.h`
+See [`PCM.h`](https://github.com/simonepri/talking-unicorn/blob/master/firmware/talking-unicorn/PCM.h)
+
+### Firmware
+
+The firmware is contained in the `firmware` folder and can be compiled and uploaded to the board thanks to the Arduino IDE.
+
+<img src="https://user-images.githubusercontent.com/3505087/27987013-a5f53e9a-6407-11e7-839a-c33605df8d35.png" alt="Firmware size" width="720">
+
+### Schematic
+
+Schematics are contained in the `schematics` folder.
+
+<img src="schematics/schematic.png" alt="Talkin Unicorn fritzing" width="500">
+
+### 3D Model
+
+You can download the stl files of the unicorn [here](http://www.thingiverse.com/thing:23972).
