@@ -8,7 +8,7 @@ The day after this conversation, as a joke, I went to her with a 3D printed unic
 It was really weird but she liked it and we laughed a lot. ❤️️
 
 ### Gallery
-Some images done during the development process:
+The final result was this:
 
 <p>
   <img src="gallery/unicorn.jpg" alt="Talking Unicorn" height="256">
